@@ -1,0 +1,16 @@
+{
+  "name": "19Sep",
+  "type": "package",
+  "blockId": "RfbbAh5rmMZd-aMxejVT_",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_19Sep"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono"
+}
