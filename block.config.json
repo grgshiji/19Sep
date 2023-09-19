@@ -1,0 +1,20 @@
+{
+  "blockId": "zLu3451naLnS_5y470KqI",
+  "name": "19Sep_Block2",
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/19Sep.git",
+    "ssh": "git@github.com:grgshiji/19Sep.git",
+    "branch": "block_19Sep_Block2"
+  },
+  "parentBlockIDs": [
+    "RfbbAh5rmMZd-aMxejVT_"
+  ],
+  "repoType": "mono",
+  "language": "nodejs",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true,
+  "start": "node index.js"
+}
