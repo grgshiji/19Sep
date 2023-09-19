@@ -12,5 +12,16 @@
   "supportedAppblockVersions": [
     "1.0.0"
   ],
-  "repoType": "mono"
+  "repoType": "mono",
+  "dependencies": {
+    "19Sep_Block1": {
+      "directory": "19Sep_Block1"
+    },
+    "19Sep_Block2": {
+      "directory": "19Sep_Block2"
+    },
+    "19Sep_Block3": {
+      "directory": "19Sep_Block3"
+    }
+  }
 }
